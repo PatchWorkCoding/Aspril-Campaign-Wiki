@@ -1,5 +1,5 @@
 # The Town of Aspril
-On the boarder of two different Kingdoms nestled in the center of the [Emerald Wastes](EmeraldWastes.md) lives Aspril also known as "The cross roads of everything" or  "The Light at the Edge of the World". All roads that move through the Emerald Wastes move through Aspril which makes it the an epicenter of trade for the region. Smaller towns have tried to spring but will 
+On the boarder of two different Kingdoms nestled in the center of the [Emerald Wastes](EmeraldWastes.md) lives Aspril also known as "The cross roads of everything" or  "The Light at the Edge of the World". All roads that move through the Emerald Wastes move through Aspril which makes it the an epicenter of trade for the region. People with grander ambitions have tried to found their own smaller cities in the emerald wastes, but in the end they are all reclaimed by the Emerald Wastes
 
 ## locations of Note
 * [The Pig Skull (Bar)](#the-pig-skull-bar)
