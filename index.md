@@ -7,3 +7,6 @@ world building and other works set in the world of Aspril. If you are reading th
 
 ## World Building
 * [The Town of Aspril](./LocalArea.md)
+* [Kragrock Dynasty](./KragrockDynasty.md)
+* [Empire of Kaladrenor](./KaladrenorEmpire.md)
+* [Emerald Wastes](./EmeraldWastes.md)

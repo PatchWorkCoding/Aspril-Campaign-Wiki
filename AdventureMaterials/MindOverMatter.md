@@ -1,12 +1,29 @@
 # Adventures of Aspril Issue #1: The Minds Over Matter
+Everything in this handout will be gone over again in session zero which will be on Friday the 26th. 
 
 ## The Hook
 "Adventuring Help Wanted!" the ad reads. "Seeking adventures for escort to a forgotten temple in the Emerald Wastes. 25g per person upon arrival to our destination plus an additional 50g for help exploring the temple and another 25g upon on my return to Aspril." Doing some quick math you come to the conclusion that the final total is more money than you have ever had in a very long time.
 
 ## What to Expect
-this is a game that takes heavy inspiration from the weird and wacky world of pulp fantasy so you can expect very little player death, and no irreversible player death. There will also be no exploration of explicit themes. If this were a movie I would rate it PG-13 (except for the swearing).
+this is a game that takes heavy inspiration from the weird and wacky world of pulp fantasy so you can expect a lighter tone. This game is very low lethality, and there will be no irreversible player death. There will be little exploration of mature themes in this adventure. I am aiming solidly for a pg-13 rating (except for swearing, you can do that as much as you want). There will be somewhat explicit violence, flesh can be rended from bone, enemies can get hands cut off, and monsters from beyond the stars can eat someone brian, but this merely fantastical stylings and there won't be any exploration of the pain inflicted.
 
-## Character Questions
+**Important note: everything stated above is by no means a hard and fast rule. If there are themes I have mentioned that you are hesitant of or flat out don't want to explore let me know and so I can make changes where needed**
+
+## Safety Mechanics
+For this game we will be using two different safety mechanics. This first is Lines, Veils, and Highlights, and the second is the X-Card. 
+
+**Lines Veils and Highlights:** <br>
+Lines, Veils and Highlights are a way to categorizing mature themes outside of sessions. Lines are themes you don't want to have brought up at all for any reason. Veils are mature themes that you are okay with discussing but only if they are shown "off-screen" and aren't touched for any great length or which much detail. and Highlights are themes that you would be excited about exploring
+
+**X-Card:** <br>
+The X-Card is a way 
+
+## Character Backstory
+Backstories can be as long or as short as you would like to make them. If all you need is paragraph to get up and running great, and if you want to spend seven pages on how you character came to own their favorite pair of socks that is great too. One thing to keep in mind while you are making your backstory is that y'all are level 3 characters which means you have just learned (or maybe relearned) what specialty you want to pursue. For example a level 1 fighter might be someone who as been practicing with a sword for about 6 months where as a level 3 fighter is someone who understands the basics and is now ready to choose what kind of sword fighting they want to pursue (i.e. battle fighting, magical fighting, mounted fighting, etc). Also as part of your characters backstory I need to know the answers to the following questions:
+
+1. how did you end up in the town of Aspril? where you born here? are you a new arrival?
+1. who do you know in town, who are they, and how do you know each other?
+1. If you had possession of the god heart what would you wish for?
 
 
 ## Character Creation
