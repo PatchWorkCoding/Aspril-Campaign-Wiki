@@ -6,7 +6,7 @@ world building and other works set in the world of Aspril. If you are reading th
 
 
 ## Current Adventure
-* [Hello World Test](./MindOverMatter.md)
+* [The Mind Over Matter](./MindOverMatter.md)
 
 ## World Building
 * [The Town of Aspril](./LocalArea.md)
