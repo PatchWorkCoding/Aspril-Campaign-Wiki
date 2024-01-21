@@ -13,10 +13,10 @@ this is a game that takes heavy inspiration from the weird and wacky world of pu
 For this game we will be using two different safety mechanics. This first is Lines, Veils, and Highlights, and the second is the X-Card. 
 
 **Lines Veils and Highlights:** <br>
-Lines, Veils and Highlights are a way to categorizing mature themes outside of sessions. Lines are themes you don't want to have brought up at all for any reason. Veils are mature themes that you are okay with discussing but only if they are shown "off-screen" and aren't touched for any great length or which much detail. and Highlights are themes that you would be excited about exploring
+Lines, Veils and Highlights are a way to categorizing mature themes outside of sessions. Lines are themes you don't want to have brought up at all for any reason. Veils are mature themes that you are okay with discussing but only if they are shown "off-screen" and aren't touched for any great length or which much detail. and Highlights are themes that you would be excited about exploring.
 
 **X-Card:** <br>
-The X-Card is a way 
+The X-card is a safety mechanic for during sessions. The "X-Card" is a piece of paper placed in the center of the table that a player can turn over when they become uncomfortable with a theme brought up in the game. Once the card is turned over play is paused and the scene the players are in will be reworked to remove the offending theme. It is important to note that whoever turned over the card doesn't have explain there reasoning for turning over the card.
 
 ## Character Backstory
 Backstories can be as long or as short as you would like to make them. If all you need is paragraph to get up and running great, and if you want to spend seven pages on how you character came to own their favorite pair of socks that is great too. One thing to keep in mind while you are making your backstory is that y'all are level 3 characters which means you have just learned (or maybe relearned) what specialty you want to pursue. For example a level 1 fighter might be someone who as been practicing with a sword for about 6 months where as a level 3 fighter is someone who understands the basics and is now ready to choose what kind of sword fighting they want to pursue (i.e. battle fighting, magical fighting, mounted fighting, etc). Also as part of your characters backstory I need to know the answers to the following questions:
