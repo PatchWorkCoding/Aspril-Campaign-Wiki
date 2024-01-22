@@ -9,4 +9,4 @@ The church and everything in it is built by the community
 When the church holds service it is more akin to the a book club. They read holy texts and discuss what it means to them and offer up new and interesting interpretation of the text. The hum of the many like honey bee swarms reminds all the members that they are part of the community and loved by the community. When the energy begins to die down one person in the community will stand up and read aloud the ending prayer and after that you may leave at your own speed. They also begin with a beginning prayer
 
 ## Map
-![Interior Map](./Images/Aspril_HarvestGod.png)
+![Interior Map](./Maps/Aspril_HarvestGod.png)

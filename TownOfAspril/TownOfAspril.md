@@ -1,5 +1,5 @@
 # The Town of Aspril
-On the boarder of between the [Kragrock Dynasty](./KragrockDynasty.md) and the [Empire of Kaladrenor](./KaladrenorEmpire.md) nestled in the center of the [Emerald Wastes](EmeraldWastes.md) lives the large community Aspril. 
+On the boarder of between the [Kragrock Dynasty](/KragrockDynasty.md) and the [Empire of Kaladrenor](/KaladrenorEmpire.md) nestled in the center of the [Emerald Wastes](EmeraldWastes.md) lives the large community Aspril. 
 
 ## Culture
 Also known as "The cross roads of everything" all roads that move through the [Emerald Wastes](EmeraldWastes.md) move through Aspril. Due to the [Emerald Wastes](EmeraldWastes.md) being the natural border between the [Kragrock Dynasty](./KragrockDynasty.md) and the [Empire of Kaladrenor](./KaladrenorEmpire.md) Aspril has the unique pleasure of being the epicenter of trade between the two kingdoms. Because of this the people of Aspril see themselves as very welcoming to outsiders. They encourage the idea that they are a "melting pot" of all the different culture that flow through its trade routes. 
