@@ -1,5 +1,10 @@
 # The Town of Aspril
-On the boarder of two different Kingdoms nestled in the center of the [Emerald Wastes](EmeraldWastes.md) lives Aspril also known as "The cross roads of everything" or  "The Light at the Edge of the World". All roads that move through the Emerald Wastes move through Aspril which makes it the an epicenter of trade for the region. People with grander ambitions have tried to found their own smaller cities in the emerald wastes, but in the end they are all reclaimed by the Emerald Wastes
+On the boarder of between the [Kragrock Dynasty](./KragrockDynasty.md) and the [Empire of Kaladrenor](./KaladrenorEmpire.md) nestled in the center of the [Emerald Wastes](EmeraldWastes.md) lives the large community Aspril. 
+
+## Culture
+Also known as "The cross roads of everything" all roads that move through the [Emerald Wastes](EmeraldWastes.md) move through Aspril. Due to the [Emerald Wastes](EmeraldWastes.md) being the natural border between the [Kragrock Dynasty](./KragrockDynasty.md) and the [Empire of Kaladrenor](./KaladrenorEmpire.md) Aspril has the unique pleasure of being the epicenter of trade between the two kingdoms. Because of this the people of Aspril see themselves as very welcoming to outsiders. They encourage the idea that they are a "melting pot" of all the different culture that flow through its trade routes. 
+
+Aspril has also been dubbed "The Light at the Edge of the World" because it is the only town that has survived the incredibly hostile conditions of the [Emerald Wastes](EmeraldWastes.md). It is through the people of Aspril constant Vigilance that the town stays alive and the trade routes stay open.
 
 ## locations of Note
 * [The Pig Skull (Bar)](#the-pig-skull-bar)
@@ -7,7 +12,8 @@ On the boarder of two different Kingdoms nestled in the center of the [Emerald W
 * Wizard Place
 * The Guard Spire
 * The Church of the Harvest God
-* The Church of the Light Goddess
+* Eternal Flame-light Church
+* The City Wall
 
 ## Groups Of Note
 * The City Guard
