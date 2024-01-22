@@ -1,2 +1,2 @@
 # Emerald Wastes
-The emerald wasts is then name given to the large pine forest that borders the [Kaladrenor Empire](/KaladrenorEmpire.md) and [Kragrock Dynasty](/KragrockDynasty.md). The region is primordial soup of evolution and strange magic. All the life forms in its midst are out to spread, grow, and multiple.  
+The emerald wasts is then name given to the large pine forest that borders the [Kaladrenor Empire](../KaladrenorEmpire.md) and [Kragrock Dynasty](../KragrockDynasty.md). The region is primordial soup of evolution and strange magic. All the life forms in its midst are out to spread, grow, and multiple.  
