@@ -1,0 +1,4 @@
+# The God Heart
+Did the stars cry when the god died? Did their sadness rip heavens apart? Did the moon howl with grief from its heart? Did the oceans boil with divine rage? Does the Earth even remember that bygone age?
+
+On a continent somewhere in the prime material plain lays the resting place of a god. A being so huge their spinal colum composes the mountain ridge and their hand forms an archipelago. Their ribs scraps the heavens and legends say that nestled somewhere in their rib cage's large expanse sits a fortress guarded by the most powerful beings in the prime material plane, and inside that fortress rests the God Heart, an object so powerful it can reform the very structure of reality by granting the user one wish.
