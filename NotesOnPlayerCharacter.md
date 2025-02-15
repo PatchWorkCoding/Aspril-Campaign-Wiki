@@ -62,6 +62,22 @@
 * Not interested in having their past or personality stolen (don't rip the character out from underneath them)
 * First time in the field
 
-
-
 Artemis for future characters
+
+## Fey's Death Cultist
+* Harrowhark Nonagesimus
+* Has Fallen in love with the dead god and now seeks to give 
+* Falling in love with a being so far above you! 
+* This character who is totally obsessed but is so low level that they can't do anything about it, all the can do is preach. 
+* At some point when they become higher level they will have choose between their god and the life they have created getting to get the higher level
+* Their Zealotry is a religion of their own making, they are an outcast of the more organized religions and they have no church or community to pray with
+* Body Mechanic
+* Only revives people if it gets them something out of it
+* Closer to their 30s
+* They have been worshipping for a long time but only now have they decided to go out and make their dreams happen
+* They would have been happy to quietly worship but something has come along to make this threat seem serious 
+* Their keep their beliefs to themselves mostly and people just kinda think they are weird
+* They don't care about other people believing in their religion
+* Is okay with their religion 
+
+Kaladrenor Empire
